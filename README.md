@@ -19,6 +19,8 @@ The content in the original file will be copied in the new file.
 ### Step 6: 
 End the program.
 ## PROGRAM:
+Developed by : R.vidhyadharan
+Register No : 22008663
 ~~~py
 with open("sample.txt", "r") as firstfile:
     with open("sample2.txt", "a") as secondfile:
